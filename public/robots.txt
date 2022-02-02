@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://toxicfs.xyz/sitemap.xml

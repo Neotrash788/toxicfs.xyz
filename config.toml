@@ -1,0 +1,13 @@
+# The URL the site will be built for
+base_url = "https://toxicfs.xyz"
+
+compile_sass = true
+build_search_index = false
+
+title = "toxicfs.xyz"
+
+[markdown]
+highlight_code = true
+highlight_theme = "OneHalfDark"
+
+[extra]
